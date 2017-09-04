@@ -38,4 +38,10 @@ buildNumber.properties
 
 .settings/*.*
 
-
+lab-11/account/.settings/*.*
+lab-11/auth/.settings/*.*
+lab-11/discovery-solution/.settings/*.*
+lab-11/gateway-solution/.settings/*.*
+lab-12/word-server-solution/.settings/*.*
+lab-13/consumer/.settings/*.*
+lab-13/producer/.settings/*.*
